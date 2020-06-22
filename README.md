@@ -1,0 +1,1 @@
+Squash git history while preserving blame
